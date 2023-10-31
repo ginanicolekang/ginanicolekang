@@ -11,7 +11,7 @@ var candleImage;
 
 // An event callback for starting the interval
 function startInterval() {
- setInterval(displayNextImage, 3000);
+ setInterval(displayNextImage, 5000);
 }
 
 function displayNextImage() {
